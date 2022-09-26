@@ -1,0 +1,7 @@
+section {
+    width: 400px;
+    background-image: linear-gradient(rgb(170, 170, 255), rgb(92, 134, 92));
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid yellow;
+}
